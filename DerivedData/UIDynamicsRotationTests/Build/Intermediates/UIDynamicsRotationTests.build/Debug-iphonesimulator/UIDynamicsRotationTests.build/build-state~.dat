@@ -1,0 +1,363 @@
+TUIDynamicsRotationTests
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/PrecompiledHeaders/UIDynamicsRotationTests-Prefix-ffsfvkcprcbwkdfmyezlzqgejcqq/UIDynamicsRotationTests-Prefix.pch.pch UIDynamicsRotationTests/UIDynamicsRotationTests-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/Objects-normal/i386/ViewController.o /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/Objects-normal/i386/AppDelegate.o /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/Objects-normal/i386/main.o /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app/UIDynamicsRotationTests normal i386
+cCopyStringsFile /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app/en.lproj/InfoPlist.strings UIDynamicsRotationTests/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/Images.xcassets
+cProcessInfoPlistFile /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app/Info.plist /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/UIDynamicsRotationTests-Info.plist
+cGenerateDSYMFile /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app.dSYM /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app/UIDynamicsRotationTests
+cTouch /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c000000005347D4240000000000000198
+t1397216292
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000531F2A7A00000000000003B4
+t1394551418
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531F2A7D000000000000019E
+t1394551421
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005347D40F0000000000446820
+t1397216271
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531F2A7F000000000088D8C0
+t1394551423
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000531F2A820000000001F1DE10
+t1394551426
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531F2A8D0000000000000ADC
+t1394551437
+s2780
+
+N/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/PrecompiledHeaders/UIDynamicsRotationTests-Prefix-ffsfvkcprcbwkdfmyezlzqgejcqq/UIDynamicsRotationTests-Prefix.pch.pch
+t1398777573
+s117848
+
+N/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/Objects-normal/i386/AppDelegate.o
+t1398777573
+s62496
+
+N/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/Objects-normal/i386/UIDynamicsRotationTests.LinkFileList
+c00000000535FA6E400000000000002C9
+t1398777572
+s713
+
+N/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/Objects-normal/i386/ViewController.o
+t1398777573
+s38520
+
+N/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/Objects-normal/i386/main.o
+t1398777573
+s3652
+
+N/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/assetcatalog_dependencies.txt
+t1398777574
+s630
+
+N/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/assetcatalog_generated_info.plist
+t1398777574
+s525
+
+N/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app
+t1398777574
+s306
+
+N/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app.dSYM
+t2
+s0
+
+N/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app/Base.lproj/Main.storyboardc
+t1398777574
+s170
+
+N/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app/Info.plist
+t1398777574
+s1061
+
+N/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app/PkgInfo
+t1398777574
+s8
+
+N/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app/UIDynamicsRotationTests
+t1398777574
+s17156
+
+N/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app/en.lproj/InfoPlist.strings
+t1398777574
+s42
+
+N/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/AppDelegate.m
+c00000000535FA67D00000000000007E7
+t1398777469
+s2023
+
+N/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/Base.lproj/Main.storyboard
+c00000000535FA6E40000000000000B93
+t1398777572
+s2963
+
+N/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/Images.xcassets
+c00000000535FA67D0000000000000088
+t1398777469
+s136
+
+N/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/UIDynamicsRotationTests-Info.plist
+c00000000535FA67D00000000000004C5
+t1398777469
+s1221
+
+N/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/UIDynamicsRotationTests-Prefix.pch
+c00000000535FA67D0000000000000158
+t1398777469
+s344
+
+N/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/ViewController.m
+c00000000535FA6BD0000000000000134
+t1398777533
+s308
+
+N/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/en.lproj/InfoPlist.strings
+c00000000535FA67D000000000000002D
+t1398777469
+s45
+
+N/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/main.m
+c00000000535FA67D0000000000000161
+t1398777469
+s353
+
+CBuild AST from /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/AppDelegate.m
+r0
+
+CBuild AST from /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/ViewController.m
+r0
+
+CBuild AST from /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesc0d0af64de0fb941^d979b764de0fb941^---0#1#1#--18"Check dependencies36"CD719AD4-64C1-4A4F-B32E-C58093762C9B-
+
+CCompileAssetCatalog /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/Images.xcassets
+s420470374.186968
+e420470374.807097
+r1
+xCompileAssetCatalog
+x/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app
+x/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app/LaunchImage-700-568h@2x.png
+o/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app/Assets.car
+o/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection160"CompileAssetCatalog DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app UIDynamicsRotationTests/Images.xcassets160"CompileAssetCatalog DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app UIDynamicsRotationTests/Images.xcassets10e92f66de0fb941^b29ece66de0fb941^-658"/* com.apple.actool.compilation-results *//Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app/LaunchImage-700-568h@2x.png/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app/Assets.car/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@114"file:///Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/Images.xcassets/0000000000000000^1550"CompileAssetCatalog DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app UIDynamicsRotationTests/Images.xcassets    cd /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/Images.xcassets36"0B593296-4880-4ADE-AD14-4CCEDB9533F5-
+b9D5F4283-48A8-485A-B325-E2C35099A8CF
+
+CCompileC DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/Objects-normal/i386/AppDelegate.o /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420470373.790630
+e420470373.973617
+r1
+xCompileC
+xDerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/Objects-normal/i386/AppDelegate.o
+x/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/AppDelegate.m
+d/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compile /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/AppDelegate.m286"CompileC DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/Objects-normal/i386/AppDelegate.o UIDynamicsRotationTests/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8e74ca65de0fb941^1041f965de0fb941^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/AppDelegate.m0000000000000000^4989"CompileC DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/Objects-normal/i386/AppDelegate.o UIDynamicsRotationTests/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/UIDynamicsRotationTests-generated-files.hmap -I/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/UIDynamicsRotationTests-own-target-headers.hmap -I/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/UIDynamicsRotationTests-all-target-headers.hmap -iquote /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/UIDynamicsRotationTests-project-headers.hmap -I/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/DerivedSources/i386 -I/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/DerivedSources -F/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator -include /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/PrecompiledHeaders/UIDynamicsRotationTests-Prefix-ffsfvkcprcbwkdfmyezlzqgejcqq/UIDynamicsRotationTests-Prefix.pch -MMD -MT dependencies -MF /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/Objects-normal/i386/AppDelegate.dia -c /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/AppDelegate.m -o /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/Objects-normal/i386/AppDelegate.o36"977F3180-C7CC-48E9-9089-F5B3BAC5456F-
+b9D5F4283-48A8-485A-B325-E2C35099A8CF
+
+CCompileC DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/Objects-normal/i386/ViewController.o /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420470373.790476
+e420470373.973646
+r1
+xCompileC
+xDerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/Objects-normal/i386/ViewController.o
+x/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/ViewController.m
+d/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Compile /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/ViewController.m292"CompileC DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/Objects-normal/i386/ViewController.o UIDynamicsRotationTests/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9b71ca65de0fb941^ed48f965de0fb941^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/ViewController.m0000000000000000^5007"CompileC DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/Objects-normal/i386/ViewController.o UIDynamicsRotationTests/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/UIDynamicsRotationTests-generated-files.hmap -I/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/UIDynamicsRotationTests-own-target-headers.hmap -I/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/UIDynamicsRotationTests-all-target-headers.hmap -iquote /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/UIDynamicsRotationTests-project-headers.hmap -I/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/DerivedSources/i386 -I/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/DerivedSources -F/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator -include /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/PrecompiledHeaders/UIDynamicsRotationTests-Prefix-ffsfvkcprcbwkdfmyezlzqgejcqq/UIDynamicsRotationTests-Prefix.pch -MMD -MT dependencies -MF /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/Objects-normal/i386/ViewController.dia -c /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/ViewController.m -o /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/Objects-normal/i386/ViewController.o36"EA9FCB6F-192C-4C25-BFAF-E439EC8617A7-
+b9D5F4283-48A8-485A-B325-E2C35099A8CF
+
+CCompileC DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/Objects-normal/i386/main.o /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420470373.790809
+e420470373.973126
+r1
+xCompileC
+xDerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/Objects-normal/i386/main.o
+x/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/main.m
+d/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/main.m272"CompileC DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/Objects-normal/i386/main.o UIDynamicsRotationTests/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3082ca65de0fb941^1920f965de0fb941^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/main.m0000000000000000^4947"CompileC DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/Objects-normal/i386/main.o UIDynamicsRotationTests/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/UIDynamicsRotationTests-generated-files.hmap -I/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/UIDynamicsRotationTests-own-target-headers.hmap -I/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/UIDynamicsRotationTests-all-target-headers.hmap -iquote /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/UIDynamicsRotationTests-project-headers.hmap -I/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/DerivedSources/i386 -I/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/DerivedSources -F/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator -include /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/PrecompiledHeaders/UIDynamicsRotationTests-Prefix-ffsfvkcprcbwkdfmyezlzqgejcqq/UIDynamicsRotationTests-Prefix.pch -MMD -MT dependencies -MF /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/Objects-normal/i386/main.dia -c /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/main.m -o /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/Objects-normal/i386/main.o36"D389D8B3-6AED-4E85-8369-D945E817C457-
+b9D5F4283-48A8-485A-B325-E2C35099A8CF
+
+CCompileStoryboard /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/Base.lproj/Main.storyboard
+s420470374.186659
+e420470374.898589
+r1
+xCompileStoryboard
+x/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"CompileStoryboard UIDynamicsRotationTests/Base.lproj/Main.storyboard68"CompileStoryboard UIDynamicsRotationTests/Base.lproj/Main.storyboard3dd32f66de0fb941^910be666de0fb941^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/Base.lproj/Main.storyboard0000000000000000^1007"CompileStoryboard UIDynamicsRotationTests/Base.lproj/Main.storyboard    cd /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app/Base.lproj/Main.storyboardc /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/Base.lproj/Main.storyboard36"BFB920A9-20F8-40CF-808D-25FE79F066AC-
+b9D5F4283-48A8-485A-B325-E2C35099A8CF
+
+CCopyStringsFile /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app/en.lproj/InfoPlist.strings UIDynamicsRotationTests/en.lproj/InfoPlist.strings
+s420470374.186571
+e420470374.187557
+r1
+xCopyStringsFile
+x/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app/en.lproj/InfoPlist.strings
+xUIDynamicsRotationTests/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy UIDynamicsRotationTests/en.lproj/InfoPlist.strings194"CopyStringsFile DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app/en.lproj/InfoPlist.strings UIDynamicsRotationTests/en.lproj/InfoPlist.strings64ce2f66de0fb941^da043066de0fb941^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/en.lproj/InfoPlist.strings0000000000000000^785"CopyStringsFile DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app/en.lproj/InfoPlist.strings UIDynamicsRotationTests/en.lproj/InfoPlist.strings    cd /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app/en.lproj -- UIDynamicsRotationTests/en.lproj/InfoPlist.strings36"DAB79A75-EC5C-4406-B872-36DB3295E9E9-
+b9D5F4283-48A8-485A-B325-E2C35099A8CF
+
+CGenerateDSYMFile /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app.dSYM /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app/UIDynamicsRotationTests
+s420470374.900532
+e420470374.914139
+r1
+xGenerateDSYMFile
+x/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app.dSYM
+x/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app/UIDynamicsRotationTests
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection181"Generate /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app.dSYM247"GenerateDSYMFile DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app.dSYM DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app/UIDynamicsRotationTests7591e666de0fb941^5306ea66de0fb941^---0#0#1#-19%DVTDocumentLocation2@179"file:///Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app.dSYM003478c3deffdf42^985"GenerateDSYMFile DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app.dSYM DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app/UIDynamicsRotationTests    cd /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app/UIDynamicsRotationTests -o /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app.dSYM36"EE67B94A-9AF6-43B6-B3DC-C5D3662AE7E6-
+b9D5F4283-48A8-485A-B325-E2C35099A8CF
+
+CLd /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app/UIDynamicsRotationTests normal i386
+s420470373.974271
+e420470374.185832
+r1
+xLd
+x/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app/UIDynamicsRotationTests
+xnormal
+xi386
+d/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/Objects-normal/i386/UIDynamicsRotationTests.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/Objects-normal/i386/ViewController.o
+d/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/Objects-normal/i386/AppDelegate.o
+d/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection196"Link /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app/UIDynamicsRotationTests139"Ld DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app/UIDynamicsRotationTests normal i386d175f965de0fb941^cd932f66de0fb941^---0#0#1#--1933"Ld DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app/UIDynamicsRotationTests normal i386    cd /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator -F/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator -filelist /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/Objects-normal/i386/UIDynamicsRotationTests.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/Objects-normal/i386/UIDynamicsRotationTests_dependency_info.dat -o /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app/UIDynamicsRotationTests36"5F1D6634-D85D-49B1-A7DD-27E5FBAE8645-
+b9D5F4283-48A8-485A-B325-E2C35099A8CF
+
+CProcessInfoPlistFile /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app/Info.plist /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/UIDynamicsRotationTests-Info.plist
+s420470374.898981
+e420470374.900202
+r1
+xProcessInfoPlistFile
+x/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app/Info.plist
+x/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/UIDynamicsRotationTests-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"Process /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/UIDynamicsRotationTests-Info.plist191"ProcessInfoPlistFile DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app/Info.plist UIDynamicsRotationTests/UIDynamicsRotationTests-Info.plist3c2ee666de0fb941^1974e666de0fb941^---0#0#1#-19%DVTDocumentLocation2@132"file:///Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/UIDynamicsRotationTests-Info.plist0000000000000000^1310"ProcessInfoPlistFile DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app/Info.plist UIDynamicsRotationTests/UIDynamicsRotationTests-Info.plist    cd /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/UIDynamicsRotationTests-Info.plist -genpkginfo /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/assetcatalog_generated_info.plist -o /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app/Info.plist36"2849436F-5E3A-4927-82A1-B259747FABB3-
+b9D5F4283-48A8-485A-B325-E2C35099A8CF
+
+CProcessPCH /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/PrecompiledHeaders/UIDynamicsRotationTests-Prefix-ffsfvkcprcbwkdfmyezlzqgejcqq/UIDynamicsRotationTests-Prefix.pch.pch UIDynamicsRotationTests/UIDynamicsRotationTests-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420470372.709260
+e420470373.789938
+r1
+xProcessPCH
+x/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/PrecompiledHeaders/UIDynamicsRotationTests-Prefix-ffsfvkcprcbwkdfmyezlzqgejcqq/UIDynamicsRotationTests-Prefix.pch.pch
+xUIDynamicsRotationTests/UIDynamicsRotationTests-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/UIDynamicsRotationTests-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Precompile UIDynamicsRotationTests/UIDynamicsRotationTests-Prefix.pch311"ProcessPCH DerivedData/UIDynamicsRotationTests/Build/Intermediates/PrecompiledHeaders/UIDynamicsRotationTests-Prefix-ffsfvkcprcbwkdfmyezlzqgejcqq/UIDynamicsRotationTests-Prefix.pch.pch UIDynamicsRotationTests/UIDynamicsRotationTests-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6aa4b564de0fb941^c13aca65de0fb941^---0#0#1#-19%DVTDocumentLocation2@132"file:///Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/UIDynamicsRotationTests-Prefix.pch0000000000000000^4798"ProcessPCH DerivedData/UIDynamicsRotationTests/Build/Intermediates/PrecompiledHeaders/UIDynamicsRotationTests-Prefix-ffsfvkcprcbwkdfmyezlzqgejcqq/UIDynamicsRotationTests-Prefix.pch.pch UIDynamicsRotationTests/UIDynamicsRotationTests-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/UIDynamicsRotationTests-generated-files.hmap -I/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/UIDynamicsRotationTests-own-target-headers.hmap -I/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/UIDynamicsRotationTests-all-target-headers.hmap -iquote /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/UIDynamicsRotationTests-project-headers.hmap -I/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/DerivedSources/i386 -I/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/UIDynamicsRotationTests.build/Debug-iphonesimulator/UIDynamicsRotationTests.build/DerivedSources -F/Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/PrecompiledHeaders/UIDynamicsRotationTests-Prefix-ffsfvkcprcbwkdfmyezlzqgejcqq/UIDynamicsRotationTests-Prefix.pch.dia -MMD -MT dependencies -MF /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/PrecompiledHeaders/UIDynamicsRotationTests-Prefix-ffsfvkcprcbwkdfmyezlzqgejcqq/UIDynamicsRotationTests-Prefix.pch.d -c /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/UIDynamicsRotationTests/UIDynamicsRotationTests-Prefix.pch -o /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Intermediates/PrecompiledHeaders/UIDynamicsRotationTests-Prefix-ffsfvkcprcbwkdfmyezlzqgejcqq/UIDynamicsRotationTests-Prefix.pch.pch36"EE5EB154-E9B2-440B-8449-368F8267A134-
+b9D5F4283-48A8-485A-B325-E2C35099A8CF
+
+CProcessPCH /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Index/PrecompiledHeaders/UIDynamicsRotationTests-Prefix-euwgknqakwmpkageztvlboipeyef_ast/UIDynamicsRotationTests-Prefix.pch.pch UIDynamicsRotationTests/UIDynamicsRotationTests-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/andyo/Documents/MyThrowawayProjects/UIDynamicsRotationTests/DerivedData/UIDynamicsRotationTests/Build/Products/Debug-iphonesimulator/UIDynamicsRotationTests.app
+r0
+
